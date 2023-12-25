@@ -1,6 +1,7 @@
 <meta charset="utf-8">
     <style>
         div {
+            background: #FFCCFF	;
             width: 200px;
             height: 380px;
             border: 1px solid black;
@@ -19,6 +20,4 @@
     </div>
 </body>
     </center>
-
-
 </html>
