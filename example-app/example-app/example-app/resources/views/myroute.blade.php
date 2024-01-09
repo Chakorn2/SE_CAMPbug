@@ -16,7 +16,6 @@
                     </b>
                 </div>
             </div>
-            <h2>ไม่รู้ทำผิดตรงไหนครับ</h2>
         </center>
     </body>
     <style>
@@ -32,9 +31,6 @@
         h1{
             color: #ffffff;
             font-size:70px;
-        }
-        h2{
-            font-size: 100px
         }
     </style>
 </html>
