@@ -20,14 +20,17 @@
     </body>
     <style>
         .box{
-            background:transparent	;
+            background:rgb(156, 192, 156);
             width: 250px;
-            height: 500px;
+            height: 450px;
             color: #ffffff;
+            border-radius: 20px;
+            border: 10px solid white;
+            text-align: center;
         }
         h1{
             color: #ffffff;
-            size:200px;
+            font-size:70px;
         }
     </style>
 </html>
