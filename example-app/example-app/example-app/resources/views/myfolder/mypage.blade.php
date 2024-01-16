@@ -6,7 +6,7 @@
                 font-size: 70px
             }
             body{
-                justify-content: center
+                justify-content: center;
                 align-items: center;
                 min-height:100vh;
                 background-size:cover;
@@ -16,9 +16,9 @@
             <body background="https://png.pngtree.com/background/20210712/original/pngtree-hand-account-style-education-mathematics-hand-drawn-background-picture-image_1178881.jpg">
                 <center>
                     <h1>แม่สูตรคูณ</h1>
-                    <form method="post" action="/my-route">
+                    <form method="post" action="/my-controller3">
                         @csrf
-                        <input type="text" name=" myinput " placeholder="NUMBER" required>
+                        <input type="text" name="myinput" placeholder="NUMBER" required>
                         <button type="submit">Submit</button>
                     </form>
                 </center>
