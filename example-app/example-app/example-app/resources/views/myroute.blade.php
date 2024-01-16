@@ -10,7 +10,7 @@
                     <b>
                         <?php
                         for ($i = 1; $i <= 24; $i++) {
-                            echo "{$myinput} x {$i} = " . $myinput * $i . '<br/>';
+                            echo "$myinput x $i = " . $myinput * $i . '<br/>';
                         }
                         ?>
                     </b>
